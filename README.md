@@ -13,7 +13,7 @@ Since then I've been working on projects that I want to share with others. I hop
 
 ## Installation
 
-Pending
+Feel free to use the html, css and javascript files and alter them as you see fit for your website. 
 
 ## Usage
 
@@ -27,4 +27,4 @@ I'd like to thank Angela Yu for her class on Udemy, [The Complete 2020 Web Devel
 
 ## License
 
-Pending
+There are no licenses currently. Check in later. 
